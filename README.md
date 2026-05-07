@@ -97,6 +97,8 @@ Sin embargo, algunas superan el valor de **2.0**, señalando un riesgo significa
 
 ---
 
+![Dashboard](assets/dashboard.png)
+
 ## 👨‍💻 Autor
 
 **Diego Bouzada** — Data & Analytics Engineer  
